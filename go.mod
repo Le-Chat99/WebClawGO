@@ -1,4 +1,4 @@
-module github.com/Le-Chat99/WebClawGO
+module github.com/Le-Chat99/WebClawGO.git
 
 go 1.23.0
 
